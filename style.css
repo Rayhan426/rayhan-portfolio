@@ -1,0 +1,118 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.orangered{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
+
+.container{
+    display: flex;
+    margin-bottom: 100px;
+   
+}
+.first-div{
+    width: 50%;
+    padding-left: 5%;
+    
+}
+.first-div img{
+    width: 80%;
+    
+}
+.link{
+    text-decoration: none;
+    background-color: rgb(241, 94, 94);
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+}
+.top-banner{
+    background-image: url(./images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.lightblue{
+    color: rgb(41, 169, 248);
+}
+.text{
+    text-align: justify;
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(3, 165, 157);
+
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+}
+.dream-big{
+    background-image: url(./images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.Experience-area{
+    background-image: url(./images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.big-heading{
+    color: rgb(0, 190, 111);
+    margin: 1%;
+}
+.baby{
+    color: rgb(0, 157, 255);
+}
+.baby-one{
+    color: orange;
+}
+
+.full-stuck-web{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    background-color: rgb(255, 254, 243);
+}
+.full-stuck-web-two{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    background-color: rgb(219, 239, 243);
+    
+}
+#border{
+    border-left: 7px solid;
+  border-image: linear-gradient(rgb(255, 81, 0), khaki);
+  border-image-slice: 1;
+}
+#border-one{
+    border-left: 7px solid;
+  border-image: linear-gradient(rgb(255, 0, 0), rgb(2, 122, 170));
+  border-image-slice: 1;
+}
+footer{
+    text-align: center;
+    background-color: rgb(8, 0, 31);
+    padding: 10px;
+    color: white;
+}
+.world{
+    font-family: 'Courier New', Courier, monospace;
+    color: yellow;
+    font-size: 40px;
+}
+
+
+    
+
+
