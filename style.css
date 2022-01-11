@@ -63,6 +63,8 @@ h1{
 .big-heading{
     color: rgb(0, 190, 111);
     margin: 1%;
+    font-weight: 800;
+    font-size: 50px;
 }
 .baby{
     color: rgb(0, 157, 255);
@@ -100,6 +102,7 @@ h1{
   border-image: linear-gradient(rgb(255, 0, 0), rgb(2, 122, 170));
   border-image-slice: 1;
 }
+
 footer{
     text-align: center;
     background-color: rgb(8, 0, 31);
@@ -111,7 +114,13 @@ footer{
     color: yellow;
     font-size: 40px;
 }
-
+.video{
+    margin: 2%;
+}
+.play{
+    color: orangered;
+    font-weight: 700;
+}
 
     
 
